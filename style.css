@@ -1,24 +1,16 @@
 h1{
-    color: brown;
+    color: rgb(10, 231, 58);
     font-style: italic;
     text-align: center;
 }
 
-button{
-    padding: 15px 20px;
-    margin-left: 30px;
+.plan{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: saddlebrown;
+    font-style: oblique;
+    font-size: 20px;
 }
 
-.increaseBtn{
-   background-color: chartreuse;
-   color: crimson;
-}
-
-.decreaseBtn{
-    background-color: darksalmon;
-    color: darkorchid;
-}
-
-button:hover {
-  background: #ee6c4d;
+.plan li:hover{
+    color: darkslategrey;
 }
